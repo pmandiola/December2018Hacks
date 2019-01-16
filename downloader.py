@@ -9,6 +9,14 @@ except ImportError:
 
 #Helper function to download files
 def download_file(url, filename, destination, encoding='utf-8'):
+    '''downloads a file and extracts it if needed
+    url: the url of the file to download (string)
+    filename: the filename (string)
+    destination: path where to download the file (string)
+    encoding: encoding to use when extracting, defaults to utf-8 (string)
+    
+    returns list with paths of each downloaded/extracted file
+    '''
     
     #Check if file exists, download if not
     if not os.path.isfile(destination + '/' + filename):
