@@ -1,6 +1,6 @@
 # NYC Second Ave Subway: Impact in taxi ridership
 
-This is an updated version of the work we did with our group for the December 2018 Hackathon at CUSP.
+This is an updated version of the work we did with our group for the [December 2018 Hackathon at CUSP](https://github.com/CUSPhack/December2018Hacks).
 
 We used timeseries analysis and point of change detection to assess the impact of the NYC Second Ave Subway openning in taxi ridership in the area.
 
