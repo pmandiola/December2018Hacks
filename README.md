@@ -1,4 +1,4 @@
-# NYC Second Ave Subway: Impact in taxi ridership
+# Impact Assessment after opening of 2nd Avenue Subway in NYC on taxis
 
 This is an updated version of the work we did with our group for the [December 2018 Hackathon at CUSP](https://github.com/CUSPhack/December2018Hacks).
 
