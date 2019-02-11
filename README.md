@@ -1,6 +1,6 @@
 # Impact Assessment after opening of 2nd Avenue Subway in NYC on taxis
 
-This is an updated version of the work we did for the [December 2018 Hackathon at CUSP](https://github.com/CUSPhack/December2018Hacks). I did this project working with Pablo Mandiola,Devashish Khulbe and Max Brueckner-Humphreys.
+This is an updated version of the work we did for the [December 2018 Hackathon at CUSP](https://github.com/CUSPhack/December2018Hacks). This project has been done by Max Brueckner-Humphreys, Devashish Khulbe, Pablo Mandiola and Soham Mody.
 
 We used timeseries analysis and point of change detection to assess the impact of the opening of the NYC Second Ave Subway on the taxi ridership in the area.
 
